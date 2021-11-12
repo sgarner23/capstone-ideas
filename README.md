@@ -12,7 +12,7 @@ IOU Tracker is a SaaS SMB tool to aid small businesses in tracking their paid an
 * Toggle between light and dark mode on the app
 
 ## Future Features: 
-* add a dashboard with graphs to show invoice history 
+* Add a dashboard with graphs to show invoice history 
 * Create an internal tool for the IOU customer service team that completed the following:
   * Collected customer comments and feedback while users were using the app
   * Gathered that data and performed sentiment analysis on it through NLP and Machine Learning 
