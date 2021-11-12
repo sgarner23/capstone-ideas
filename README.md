@@ -1,7 +1,7 @@
 # IOU Tracker
 
 ## IDEA:
-IOU Tracker is a SaaS SMB tool to aid small businesses in tracking their paid and pending invoices. Instead of tracking invoices via paper and old school filing cabinets, IOU will help digitalize and simplify invoicing paperwork so that business owners can spend more time on what's important and less time filing and tracking paperwork. 
+IOU Tracker is a SaaS SMB tool to aid small businesses in tracking their paid and pending invoices. Instead of tracking invoices via paper and old school filing cabinets, IOU will help digitalize and simplify invoicing paperwork so that business owners can spend more time on what's important. Their customers.  
 
 ## Features:
 * Create a user account 
