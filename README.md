@@ -10,6 +10,7 @@ IOU Tracker is a SaaS SMB tool to aid small businesses in tracking their paid an
 * Save draft invoices and be able to update invoice status (draft/pending/paid) 
 * Filter invoices by status
 * Toggle between light and dark mode on the app
+* View the app on any screen size with tablet and mobile friendly views to help owners create and track invoices on the go
 
 ## Future Features: 
 * Add a dashboard with graphs to show invoice history 
